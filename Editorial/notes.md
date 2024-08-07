@@ -1,7 +1,0 @@
-#Editorial
-
-* Recon
-
-* Scanning
-
-*Exploitation
