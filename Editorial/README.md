@@ -16,6 +16,14 @@ Website components:
   -  allows files to be uploaded
     - updates a image on that page
     - it stores it in "/static/images/...." and then displays
+ 
+Enumerating (using gobuster):
+- DNS:
+  - Running a DNS enumeration -> no sub domains found
+- File:
+  - Running a file enumeration ->
+    - \about
+    - \upload  
 
 
 Exploitation
@@ -23,6 +31,7 @@ Exploitation
 
 Possible Explotation found:
 - upload a PHP file and run it??
+- name of attack: file upload vulnerabilities
 
 post-Exploitation
 -----------
